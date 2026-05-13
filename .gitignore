@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+
+# IDE/editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Go build/test artifacts
+bin/
+dist/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+coverage.out
+
+# Logs
+*.log
+
+# Environment/local config
+.env
+.env.*
+!.env.example

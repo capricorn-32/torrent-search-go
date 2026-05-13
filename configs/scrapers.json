@@ -1,0 +1,9 @@
+{
+  "sites": {
+    "nyaa": {
+      "base_url": "https://nyaa.si",
+      "search_path": "/?f=0&c=1_2&q={query}",
+      "domains": ["nyaa.si"]
+    }
+  }
+}
